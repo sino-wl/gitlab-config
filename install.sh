@@ -1,6 +1,6 @@
 
 
-GITLAB_HOME=`pwd`
+GITLAB_HOME=`pwd`/gitlab_home
 
 echo "GITLAB_HOME:	$GITLAB_HOME"
 
