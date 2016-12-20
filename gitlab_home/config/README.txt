@@ -1,1 +1,1 @@
-gitlab_home/config
+gitlab_home

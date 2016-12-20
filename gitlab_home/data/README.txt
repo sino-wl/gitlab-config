@@ -1,1 +1,1 @@
-gitlab_home/data
+gitlab_home

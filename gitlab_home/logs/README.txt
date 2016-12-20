@@ -1,1 +1,1 @@
-gitlab_home/logs
+gitlab_home
