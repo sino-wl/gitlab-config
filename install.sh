@@ -7,7 +7,7 @@ echo "GITLAB_HOME:		$GITLAB_HOME"
 echo "GITLAB_VERSION:	$GITLAB_VERSION"
 
 docker run -p 10443:443 -p 10080:80 -p 10022:22 \
-	--name gitlab \
+	--name sino-gitlab \
 	--restart always \
     --volume $GITLAB_HOME/config:/etc/gitlab:Z \
     --volume $GITLAB_HOME/logs:/var/log/gitlab:Z \
